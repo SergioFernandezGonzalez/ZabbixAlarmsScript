@@ -3,3 +3,5 @@
 Requirements -> 
   pip install flask
    pip install Jira
+
+Login -> Jira Tid Credentials
