@@ -1,7 +1,6 @@
 ﻿# Zabbix Alarms Script 
 
 Requirements -> 
-  pip install flask
-   pip install Jira
+  pip install flask Jira
 
 Login -> Jira Tid Credentials
